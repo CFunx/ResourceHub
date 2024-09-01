@@ -1,0 +1,10 @@
+https://www.thebroadcastbridge.com/content/entry/9360/your-practical-guide-to-aes67-part-1
+https://www.thebroadcastbridge.com/content/entry/9591/your-practical-guide-to-aes67part-2
+https://www.thebroadcastbridge.com/content/entry/9653/your-practical-guide-to-aes67part-3
+
+Windows 时间服务： https://learn.microsoft.com/zh-cn/troubleshoot/windows-server/active-directory/client-clock-reverts-to-previous-time
+
+
+AESResource: https://hartung.io/2020/07/aes67-resources/
+
+https://en.wikipedia.org/wiki/AES67
