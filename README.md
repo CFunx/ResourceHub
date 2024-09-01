@@ -14,7 +14,7 @@
   >
   >3. 安装完成Visual studio 之后 必须安装SDK调试工具。打开控制面板->程序与功能，找到刚才安装的最新Windows Software Development Kit，鼠标右键->change。
   >
-  >   ![intallDbgTools](.\pics\installDbg.jpg)
+  >   ![intallDbgTools](https://github.com/CFunx/ResourceHub/blob/develop/pics/installDbg.jpg)
   >
   >4. 安装 python3.12.x
   >
@@ -22,7 +22,7 @@
   >
   >6. 最好将操作系统版本改为英文版本
   >
-  >![regions](.\pics\region.jpg)
+  >![regions](https://github.com/CFunx/ResourceHub/blob/develop/pics/region.jpg)
 
 * 编译步骤
 
@@ -32,7 +32,7 @@
   >
   >3. 最终工程打开效果如下所示
   >
-  >   ![allProject](.\pics\project.jpg)
+  >   ![allProject](https://github.com/CFunx/ResourceHub/blob/develop/pics/project.jpg)
 
 
 
